@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#008577</color>
+    <color name="colorPrimaryDark">#00574B</color>
+    <color name="colorAccent">#D81B60</color>
+    <color name="link_blue">#0000EE</color>
+
+    //color pallete
+    <color name="black">#000</color>
+    <color name="maroon">#85144b</color>
+    <color name="olive">#3D9970</color>
+    <color name="green">#2ECC40</color>
+    <color name="lime">#01FF70</color>
+
+    <color name="teal">#39CCCC</color>
+    <color name="aqua">#7FDBFF</color>
+    <color name="blue">#0074D9</color>
+    <color name="white">#fff</color>
+    <color name="yellow">#FFDC00</color>
+
+    <color name="orange">#FF851B</color>
+    <color name="red">#FF4136</color>
+    <color name="fuscia">#F012BE</color>
+    <color name="silver">#AAAAAA</color>
+    <color name="gray">#DDDDDD</color>
+
+    <color name="fab_color">#EE82EE</color>
+    <color name="fab_clicked_color">#9400D3</color>
+
+    <color name="light_gray">#F5EDED</color>
+
+</resources>

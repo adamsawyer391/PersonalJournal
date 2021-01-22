@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "164243571217",
+    "firebase_url": "https://personaljournal-9bde6.firebaseio.com",
+    "project_id": "personaljournal-9bde6",
+    "storage_bucket": "personaljournal-9bde6.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:164243571217:android:036ef2e133bc9a2af2a7b0",
+        "android_client_info": {
+          "package_name": "com.personaljournal"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "164243571217-787bic37uisgjl0cf9325qtrfmrcb7lr.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.personaljournal",
+            "certificate_hash": "4ce7ef19f1c8a9f1256d896bc9dbcadecdf296d3"
+          }
+        },
+        {
+          "client_id": "164243571217-imqb688tcckfcp0ti1tbffaisf8c40j8.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCFYHLa6wxAi2HeZ4GWIibTAxzap-yaZgE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "164243571217-imqb688tcckfcp0ti1tbffaisf8c40j8.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

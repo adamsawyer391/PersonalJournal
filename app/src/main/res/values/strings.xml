@@ -1,0 +1,51 @@
+<resources>
+
+    <string name="app_name">Personal Journal</string>
+
+    <string name="ad_mob_application_id">ca-app-pub-3741814945474848~6324451498</string>
+    <string name="test_ad_unit_id">ca-app-pub-3940256099942544/8135179316</string>
+
+    <string name="current_version">The current version of Personal Journal you are using is  </string>
+    <string name="change_email">Change Email</string>
+    <string name="enter_email">enter email</string>
+    <string name="confirm_email">confirm email</string>
+    <string name="enter_your_password">enter your password</string>
+    <string name="authenticate">Authenticate</string>
+    <string name="enter_new_email_email">enter new email</string>
+    <string name="confirm_new_email_email">confirm new email</string>
+    <string name="complete_setup">COMPLETE SETUP</string>
+    <string name="full_name">Full Name</string>
+    <string name="location">location</string>
+    <string name="select_date_of_birth">Select Date of Birth</string>
+    <string name="finish">FINISH</string>
+    <string name="uploading_entry">Uploading entry…</string>
+
+    <string name="select_font_size">Select Font Size</string>
+    <string name="select_background_color">Select Background Color</string>
+    <string name="select_text_color">Select Text Color</string>
+
+    <string name="done">DONE</string>
+    <string name="start_your_entry_here">start your entry here…</string>
+    <string name="enter_a_title">enter a title…</string>
+    <string name="save_changes">Save Changes</string>
+    <string name="edit_post">Edit Post</string>
+    <string name="login">LOGIN</string>
+    <string name="email_address">email address</string>
+    <string name="password">password</string>
+    <string name="sign_up_for_a_new_account">Sign Up for a New Account</string>
+    <string name="forgot_password">Forgot Password?</string>
+    <string name="today_s_date">Today\'s Date</string>
+    <string name="new_entry">New Entry</string>
+    <string name="save">SAVE</string>
+    <string name="register">REGISTER</string>
+    <string name="change_password">Change Password</string>
+    <string name="enter_new_password">enter new password</string>
+    <string name="reset_password">Reset Password</string>
+    <string name="settings">Settings</string>
+    <string name="reset_your_password">Reset Your Password</string>
+    <string name="you_have_the_most_up_to_date_version">You have the most up to date version.</string>
+    <string name="click_here_to_download_new_updates">Click here to download new updates.</string>
+    <string name="view_entry">View Entry</string>
+    <string name="confirm_password">confirm password</string>
+
+</resources>
